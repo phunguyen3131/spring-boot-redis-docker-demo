@@ -1,0 +1,6 @@
+com\example\springbootredis\model\Employee.class
+com\example\springbootredis\config\RedisConfig.class
+com\example\springbootredis\service\EmployeeService.class
+com\example\springbootredis\SpringBootRedisApplication.class
+com\example\springbootredis\resource\EmployeeResource.class
+com\example\springbootredis\service\EmployeeServiceImpl.class
